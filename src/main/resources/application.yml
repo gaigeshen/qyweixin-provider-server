@@ -1,0 +1,10 @@
+server:
+  port: 9898
+spring:
+  main:
+    banner-mode: console
+    web-application-type: servlet
+  application:
+    name: qyweixin-provider-server
+  jpa:
+    open-in-view: false
